@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>img/cross.png</file>
+        <file>img/folder.png</file>
+        <file>img/colors.png</file>
+        <file>img/moving.png</file>
+        <file>img/moving2.png</file>
+        <file>img/square.png</file>
+        <file>img/trashcan.png</file>
+        <file>img/graph.png</file>
+        <file>img/save.png</file>
+        <file>img/image.png</file>
+        <file>img/addPoint.png</file>
+        <file>img/zoom.png</file>
+        <file>img/addGraph.png</file>
+        <file>img/addPoint2.png</file>
+        <file>img/openFolder.png</file>
+        <file>img/openFolder2.png</file>
+        <file>img/go.png</file>
+        <file>img/go2.png</file>
+        <file>img/save_c.png</file>
+        <file>img/addMaterial.png</file>
+        <file>text_files/materials2.txt</file>
+    </qresource>
+</RCC>
